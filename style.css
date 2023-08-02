@@ -204,9 +204,6 @@ footer {
 }
 
 @media screen and (max-width: 350px) {
-  .hero {
-    display: flex;
-    flex-direction: column;
-  }
+
 } 
 
